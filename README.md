@@ -1,4 +1,4 @@
-# Find My Team
+#[Find My Team](https://findmyteam.io)
 
 ## Summary
 FindMyTeam is a web application that is meant to help iSchool students find groups quickly, but to also provide them with the opportunity to see a quick preview of potential partners so that they may be more well-informed as for how they are choosing their partners. We hope that this provides students with the ability to make the most out of their academic collaborative experiences.
@@ -16,7 +16,7 @@ FindMyTeam is a web application that is meant to help iSchool students find grou
 - Find other student's contact info to coordinate and communicate quickly
 
 ## Link to Site
-- https://findmyteam.io
+- [https://findmyteam.io](https://findmyteam.io)
 
 ## Creators
 - [Ashmann Syngle](https://www.linkedin.com/in/ashmann/)
